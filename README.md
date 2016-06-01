@@ -1,4 +1,4 @@
-# pr-test
+# pr-test:
 
-Testing pull-requests
+Testing pull-requests and ignore branches
 
